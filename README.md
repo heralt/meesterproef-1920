@@ -4,6 +4,10 @@ In de Meesterproef ga je toepassen wat je in de Minor Web Development hebt gelee
 Voor de Meesterproef krijg je een opdracht van een echte opdrachtgever.
 Je gaat leren hoe je de geleerde kennis en skills kan gebruiken om een oplossing voor een probleem te ontwerpen. Testen, maken, evalueren, testen, maken ...
 
+# VOCAB NP-2 voice app
+
+Debrief week 1: [live link](https://chat-spotify.herokuapp.com/)
+
 <!-- Je kan kiezen uit verschillende projecten. Hier ga je 5 weken aan werken.  Voor de Meesterproef geef je met een eerste, tweede keuze en derde keuze aan welk project je graag wil doen. Daarna wordt door de coaches een indeling gemaakt. -->
 
 
