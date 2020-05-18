@@ -6,7 +6,7 @@ Je gaat leren hoe je de geleerde kennis en skills kan gebruiken om een oplossing
 
 # VOCAB NP-2 voice app
 
-Debrief week 1: [live link](https://chat-spotify.herokuapp.com/)
+Debrief week 1: [rapport](https://github.com/heralt/meesterproef-1920/wiki/Debrief:-VOCAB---week-1)
 
 <!-- Je kan kiezen uit verschillende projecten. Hier ga je 5 weken aan werken.  Voor de Meesterproef geef je met een eerste, tweede keuze en derde keuze aan welk project je graag wil doen. Daarna wordt door de coaches een indeling gemaakt. -->
 
