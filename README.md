@@ -5,12 +5,9 @@ Voor de Meesterproef krijg je een opdracht van een echte opdrachtgever.
 Je gaat leren hoe je de geleerde kennis en skills kan gebruiken om een oplossing voor een probleem te ontwerpen. Testen, maken, evalueren, testen, maken ...
 
 # VOCAB NP-2 voice app
-
-
-
-Debrief: [rapport](https://github.com/heralt/meesterproef-1920/wiki/Debrief:-VOCAB---week-1)<br>
-Design rationale: [Vocab](https://github.com/tnanhekhan/vocab)<br>
-Product biografie: [product biografie](https://github.com/heralt/meesterproef-1920/wiki/Product-biografie)
+Dit project heb ik in samenwerking gedaan met Tabish, dus alle code staat in een gezamelijke repo.
+Dit is de repo van het vocab project: [Vocab](https://github.com/tnanhekhan/vocab)<br>
+In de : [product biografie](https://github.com/heralt/meesterproef-1920/wiki/Product-biografie)
 
 <!-- Maybe a table of contents here? 📚 -->
 
