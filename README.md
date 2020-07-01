@@ -6,8 +6,9 @@ Je gaat leren hoe je de geleerde kennis en skills kan gebruiken om een oplossing
 
 # VOCAB NP-2 voice app
 
-Debrief week 1: [rapport](https://github.com/heralt/meesterproef-1920/wiki/Debrief:-VOCAB---week-1)
-
+Debrief: [rapport](https://github.com/heralt/meesterproef-1920/wiki/Debrief:-VOCAB---week-1)
+Design rationale: [Vocab](https://github.com/tnanhekhan/vocab)
+Product biografie: [product biografie](https://github.com/heralt/meesterproef-1920/wiki/Product-biografie)
 
 <!-- Maybe a table of contents here? 📚 -->
 
